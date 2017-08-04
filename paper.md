@@ -17,11 +17,10 @@
 
 [Mining sub-categories for object detection](http://www.jifengdai.org/publications/ICPR_Mining_2012.pdf)
 
-[Deformable Convolutional Networks](https://pdfs.semanticscholar.org/5c0c/22111f52ed3948f02fa0a6a976385b32c900.pdf)
-
 [Instance-aware Semantic Segmentation via Multi-task Network Cascades](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf)
 
 [Multifeature-Based High-Resolution Palmprint Recognition](http://ieeexplore.ieee.org/abstract/document/5557887/)
+
 [R-FCN: Object Detection via Region-based Fully Convolutional Networks](http://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks.pdf)
 
 [Robust and Efficient Ridge-Based Palmprint Matching](http://ieeexplore.ieee.org/abstract/document/6112761/)
@@ -54,13 +53,7 @@
 
 [A Global Sampling Method for Alpha Matting](http://mmlab.ie.cuhk.edu.hk/archive/2011/cvpr11matting.pdf)
 
-[Convolutional Feature Masking for Joint Object and Stuff Segmentation](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dai_Convolutional_Feature_Masking_2015_CVPR_paper.pdf)
-
-[BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Dai_BoxSup_Exploiting_Bounding_ICCV_2015_paper.pdf)
-
 [Constant Time Weighted Median Filtering for Stereo Matching and Beyond](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Ma_Constant_Time_Weighted_2013_ICCV_paper.pdf)
-
-[Instance-aware Semantic Segmentation via Multi-task Network Cascades](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf)
 
 [Fast Matting Using Large Kernel Matting Laplacian Matrices](http://www.jiansun.org/papers/CVPR10_FastMatting.pdf)
 
@@ -231,42 +224,6 @@ reorganization](https://pdfs.semanticscholar.org/d1cd/6a085cb52df16d65253dccba5d
 
 [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf)
 
-[]()
+[On learning to localize objects with minimal supervision](http://proceedings.mlr.press/v32/songb14.pdf)
 
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
-
-[]()
+[Sparselet Models for Efficient Multiclass Object Detection](http://www.timalthoff.de/docs/sparselets-eccv.pdf)
