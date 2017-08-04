@@ -194,8 +194,6 @@ reorganization](https://pdfs.semanticscholar.org/d1cd/6a085cb52df16d65253dccba5d
 
 [Generalized Sparselet Models for Real-Time Multiclass Object Recognition](http://ieeexplore.ieee.org/abstract/document/6891251/)
 
-[Mask R-CNN](https://arxiv.org/pdf/1703.06870.pdf)
-
 [Inferring 3D Object Pose in RGB-D Images](https://arxiv.org/pdf/1502.04652.pdf)
 
 [Learning Features by Watching Objects Move](https://arxiv.org/pdf/1612.06370.pdf)
@@ -216,14 +214,10 @@ reorganization](https://pdfs.semanticscholar.org/d1cd/6a085cb52df16d65253dccba5d
 
 [LSVM - Mixtures of Deformable Part Models](http://host.robots.ox.ac.uk/pascal/VOC/voc2009/workshop/felzenszwalb.pdf)
 
-[Mask R-CNN](https://pdfs.semanticscholar.org/1a09/12bb76777469295bb2c059faee907e7f3258.pdf)
-
 [YOLO9000: Better, Faster, Stronger](https://arxiv.org/pdf/1612.08242.pdf)
 
 [Real-Time Grasp Detection Using Convolutional Neural Networks](https://arxiv.org/pdf/1412.3128.pdf)
 
 [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf)
 
-[On learning to localize objects with minimal supervision](http://proceedings.mlr.press/v32/songb14.pdf)
 
-[Sparselet Models for Efficient Multiclass Object Detection](http://www.timalthoff.de/docs/sparselets-eccv.pdf)
