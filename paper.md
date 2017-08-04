@@ -21,13 +21,9 @@
 
 [Multifeature-Based High-Resolution Palmprint Recognition](http://ieeexplore.ieee.org/abstract/document/5557887/)
 
-[R-FCN: Object Detection via Region-based Fully Convolutional Networks](http://papers.nips.cc/paper/6465-r-fcn-object-detection-via-region-based-fully-convolutional-networks.pdf)
-
 [Robust and Efficient Ridge-Based Palmprint Matching](http://ieeexplore.ieee.org/abstract/document/6112761/)
 
 [Cosegmentation and Cosketch by Unsupervised Learning](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Dai_Cosegmentation_and_Cosketch_2013_ICCV_paper.pdf)
-
-[Instance-sensitive Fully Convolutional Networks](https://arxiv.org/pdf/1603.08678.pdf)
 
 [ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_ScribbleSup_Scribble-Supervised_Convolutional_CVPR_2016_paper.pdf)
 
@@ -76,8 +72,6 @@
 [Instance-sensitive Fully Convolutional Networks](https://arxiv.org/pdf/1603.08678.pdf)
 
 [Joint Inverted Indexing](http://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Xia_Joint_Inverted_Indexing_2013_ICCV_paper.pdf)
-
-[Aggregated Residual Transformations for Deep Neural Networks](https://arxiv.org/pdf/1611.05431.pdf)
 
 [Sparse Projections for High-Dimensional Binary Codes](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Xia_Sparse_Projections_for_2015_CVPR_paper.pdf)
 
